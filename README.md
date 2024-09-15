@@ -10,14 +10,14 @@ https://github.com/haoxiang01/Neuromorphic-Semantic-Communication-for-Future-Wir
 cd Att-NeuroSC
 ```
 
-### Install the environment
+### ⚡ Install the environment
 - Python
 - Pytorch 
 - Spikingjelly
 
-## Citation
+## 🔍 Citation
 
-If you find this project  is helpful to your research, please consider cite:
+If you find this project  is helpful to your research, please consider star this repository to get the latest updates and cite:
 ```
 @MastersThesis{huang2024msc,
     author     =     {Huang, Haoxiang},
@@ -28,7 +28,7 @@ If you find this project  is helpful to your research, please consider cite:
 }
 ```
 
-## Future Work
+## 🏃‍♀️ Future Work
 If you find this future direction interesting, please feel free to email me to discuss it further.
 ### Distributed Sensing Scenario
 
