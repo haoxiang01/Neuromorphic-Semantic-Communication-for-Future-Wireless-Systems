@@ -1,7 +1,7 @@
 # Neuromorphic-Semantic-Communication-for-Future-Wireless-Systems
 This repository contains the source code and documentation for my MSc project, submitted in partial fulfillment of the requirements for the degree of MSc in Communications and Signal Processing at Imperial College London.
 
-### [Thesis](./Haoxiang_Huang_MSc_Thesis.pdf) | [Author](https://haoxiang01.github.io/) 
+### [Thesis](./Haoxiang_Huang_MSc_Thesis.pdf) |[Code](./Att-NeuroSC/) |  [Author](https://haoxiang01.github.io/) 
 ## Installation
 Please follow the instructions below to install the repo and dependencies.
 
