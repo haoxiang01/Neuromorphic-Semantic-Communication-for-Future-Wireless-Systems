@@ -37,9 +37,10 @@ This example describes a distributed sensors system with two sensors (K=2). Each
 
 <p align="center"> 
   <a href="">
-    <img src="./Media/distributed_sensing_00.png" alt="distributed_sensing" width="60%">
+    <img src="./Media/distributed_sensing_00.png" alt="distributed_sensing" width="40%">
   </a>
 </p>
+
 ### Fast Changing Communications Scenario
 -  **Meta-learning** algorithm for fast adaptation to new environments with few-shot pilots:
 
