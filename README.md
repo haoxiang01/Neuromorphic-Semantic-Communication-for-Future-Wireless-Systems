@@ -31,7 +31,6 @@ If you find this project  is helpful to your research, please consider cite:
 ## Future Work
 If you find this future direction interesting, please feel free to email me to discuss it further.
 ### Distributed Sensing Scenario
-### Example of a Distributed Sensors System
 
 This example describes a distributed sensors system with two sensors (K=2). Each sensor device captures a fraction (μ) of the speech signal from the source. In this example, μ is less than 0.5, meaning that the two devices combined cannot fully capture the entire speech signal.
 
