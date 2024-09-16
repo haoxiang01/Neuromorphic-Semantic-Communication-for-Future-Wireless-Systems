@@ -42,7 +42,7 @@ This example describes a distributed sensors system with two sensors (K=2). Each
 
 <p align="center"> 
   <a href="">
-    <img src="./Media/distributed_00.png" alt="distributed_system model" width="60%">
+    <img src="./Media/distributed_00.png" alt="distributed_system model" width="80%">
   </a>
 </p>
 
